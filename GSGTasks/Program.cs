@@ -1,4 +1,4 @@
-﻿namespace GSGTasks
+﻿namespace GSGTask_A
 {
     internal class Program
     {
